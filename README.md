@@ -27,21 +27,6 @@ This project aspires to empower individuals with hearing and speech disabilities
 
 Our approach involves developing an advanced translation system that integrates cutting-edge technologies to enable real-time bidirectional communication. The solution includes:
 
-1. **Gesture Recognition**:
-
-   - Employing computer vision techniques and LSTM models to accurately identify static and dynamic ISL gestures, including non-manual signals such as facial expressions and body postures.
-
-2. **Text/Speech-to-Sign Conversion**:
-
-   - Utilizing NLP to parse English text, apply ISL grammar rules, and convert text into animated signs to ensure grammatical correctness.
-
-3. **Regional Language Support**:
-
-   - Incorporating Kannada translation to enhance accessibility and relevance in multilingual contexts.
-
-4. **Enhanced Accessibility**:
-
-   - Providing animated ISL outputs to facilitate learning and interaction for both ISL users and learners.
 
 ---
 
