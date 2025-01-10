@@ -81,6 +81,24 @@ Communication between ISL users and individuals relying on spoken or written lan
 
 ---
 
+Your project’s uniqueness lies in several innovative aspects that address existing gaps and enhance inclusivity for Indian Sign Language (ISL) users. Here are the key points of uniqueness:  
+
+### 1. **Bidirectional Translation**
+   - Most existing systems focus on unidirectional translation, either converting sign language to text or text to sign language. Your project bridges this gap by enabling seamless two-way communication, allowing both ISL users and non-ISL users to interact naturally.
+
+### 2. **ISL Grammar Adherence**
+   - Unlike generic sign language translators, your solution respects the unique grammatical structure of ISL, ensuring translations that are contextually and grammatically accurate. This is crucial for conveying meaning effectively.
+
+### 3. **Regional Language Support**
+   - Incorporating regional languages like Kannada sets your project apart, addressing the linguistic diversity in India. This inclusion expands accessibility and relevance across different user demographics.
+
+### 4. **Real-Time Animated Sign Outputs**
+   - Your project includes animated sign outputs for text or speech, which is not only user-friendly but also an excellent tool for teaching and learning ISL, bridging communication gaps for learners and native users alike.
+
+### 5. **Comprehensive User Accessibility**
+   - Your solution minimizes complexity by eliminating the need for extensive typing or setup, making it highly accessible to users who primarily rely on gestures for communication.
+
+---
 ## Contact and Contribution
 
 We welcome contributions and feedback to improve the system. For further inquiries or to participate in the project, please reach out to the development team.
