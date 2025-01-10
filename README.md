@@ -84,8 +84,8 @@ Your project’s uniqueness lies in several innovative aspects that address exis
    - Your solution minimizes complexity by eliminating the need for extensive typing or setup, making it highly accessible to users who primarily rely on gestures for communication.
 
 ---
-
-![Animated ISL Output](path_to_animated_output_image.png)
+### Output
+![Animated ISL Output](image.png)
 
 ---
 ## Contact and Contribution
