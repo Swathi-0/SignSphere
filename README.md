@@ -1,6 +1,5 @@
-# README
 
-## Project Title: Bidirectional Indian Sign Language (ISL) Translation System
+# Project Title: Bidirectional Indian Sign Language (ISL) Translation System
 
 ### Prototype Link
 
@@ -95,5 +94,5 @@ We welcome contributions and feedback to improve the system. For further inquiri
 Allan Dsouza\
 Swathi S\
 Swaroop K R\
-Sarah Catherine\
+Sarah Catherine
 
