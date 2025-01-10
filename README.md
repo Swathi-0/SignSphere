@@ -26,7 +26,7 @@ This project aspires to empower individuals with hearing and speech disabilities
 ## Approach
 
 Our approach involves developing an advanced translation system that integrates cutting-edge technologies to enable real-time bidirectional communication. The solution includes:
-
+ ![Gesture Recognition](path_to_gesture_recognition_image.png)
 
 ---
 
@@ -84,6 +84,10 @@ Your project’s uniqueness lies in several innovative aspects that address exis
    - Your solution minimizes complexity by eliminating the need for extensive typing or setup, making it highly accessible to users who primarily rely on gestures for communication.
 
 ---
+
+![Animated ISL Output](path_to_animated_output_image.png)
+
+---
 ## Contact and Contribution
 
 We welcome contributions and feedback to improve the system. For further inquiries or to participate in the project, please reach out to the development team.
@@ -92,5 +96,4 @@ Allan Dsouza\
 Swathi S\
 Swaroop K R\
 Sarah Catherine\
-
 
