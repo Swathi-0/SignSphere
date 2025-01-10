@@ -26,7 +26,7 @@ This project aspires to empower individuals with hearing and speech disabilities
 ## Approach
 
 Our approach involves developing an advanced translation system that integrates cutting-edge technologies to enable real-time bidirectional communication. The solution includes:
- ![Gesture Recognition](proposed images capstone.png)
+ ![Gesture Recognition](proposedimagescapstone.png)
 
 ---
 
